@@ -1,0 +1,28 @@
+# Web framework
+Flask>=2.3
+
+# Web server for deployment
+gunicorn>=21.2
+
+# HTTP requests
+requests>=2.31
+
+# Translation
+deep-translator>=1.10
+
+# Detect city names from text
+geonamescache==2.0.0
+
+
+# Data manipulation (if needed later)
+pandas>=2.1
+numpy>=1.27
+
+# Load environment variables
+python-dotenv>=1.0
+
+# Dialogflow request parsing (optional, if using helper)
+dialogflow==1.1.3
+
+# Optional: For JSON handling (usually built-in)
+# simplejson>=3.19.1
