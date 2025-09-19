@@ -26,3 +26,4 @@ dialogflow==1.1.3
 
 # Optional: For JSON handling (usually built-in)
 # simplejson>=3.19.1
+langdetect
